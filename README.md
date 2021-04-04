@@ -56,7 +56,7 @@
     </a>
 </p>
 <hr>
-<h2 align="center">Visitas no perfil &#128064;</h2>
+<h2 align="center">Profile views &#128064;</h2>
 <br>
 <p align="center"> 
   <img alingn="center" src="https://profile-counter.glitch.me/emanoeldelfino/count.svg" />
