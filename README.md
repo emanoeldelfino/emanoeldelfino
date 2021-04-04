@@ -1,3 +1,4 @@
+<hr>
 <h2 align="center">
     Hi there 
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
@@ -60,3 +61,4 @@
 <p align="center"> 
   <img alingn="center" src="https://profile-counter.glitch.me/emanoeldelfino/count.svg" />
 </p>
+<hr>
