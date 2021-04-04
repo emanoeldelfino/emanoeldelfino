@@ -17,7 +17,7 @@
       />
     </a>
 </p>
-
+<br><br><br>
 <h2 align="center">Skills &#9881;&#65039;</h2>
 <br>
 <p align="center">
@@ -35,7 +35,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </p>
-
+<br><br><br>
 <h2 align="center">Contact &#128222;</h2>
 <br>
 <p align="center">
@@ -51,7 +51,7 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/emanoeldelfino/">
     </a>
 </p>
-
+<br><br><br>
 <h2 align="center">Visitas no perfil &#128064;</h2>
 <br>
 <p align="center"> 
