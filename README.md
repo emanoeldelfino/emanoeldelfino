@@ -1,22 +1,24 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+<h2 align="center">
+    Hi there 
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+</h2>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&layout=compact&theme=dark"
+      />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img
+        align="center"
+        height="165"
+        src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+      />
+    </a>
 </p>
 
-## Skills :gear:
+<h2 align="center">Skills &#9881;&#65039;</h2>
 <br>
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,7 +36,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </p>
 
-## Contact :telephone_receiver:
+<h2 align="center">Contact &#128222;</h2>
 <br>
 <p align="center">
     <a href="https://github.com/emanoeldelfino">
@@ -50,8 +52,9 @@
     </a>
 </p>
 
-## Visitas no perfil :eyes: 
+<h2 align="center">Visitas no perfil &#128064;</h2>
 <br>
 <p align="center"> 
   <img alingn="center" src="https://profile-counter.glitch.me/emanoeldelfino/count.svg" />
 </p>
+
