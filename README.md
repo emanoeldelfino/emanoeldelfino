@@ -26,7 +26,7 @@
   <br/>
 </p>
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=emanoeldelfino&theme=onedark&row=1" alt="emanoeldelfino" />
+ <img src="https://github-profile-trophy.vercel.app/?username=emanoeldelfino&theme=alduin&row=1" alt="emanoeldelfino" />
 </p><br>
 <hr>
 <h2 align="center">Skills &#9881;&#65039;</h2>
