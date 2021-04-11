@@ -22,7 +22,7 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanoeldelfino&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanoeldelfino&theme=onedark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   <br/>
 </p>
 <p align="center">
