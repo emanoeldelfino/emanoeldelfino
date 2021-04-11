@@ -7,20 +7,16 @@
 <h2 align="center">My stats &#128202;</h2>
 <br>
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
-        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&layout=compact&theme=dark"
+        alt="emanoeldelfino"
         width="420"
       />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
-        align="center"
-        height="165"
-        src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+           src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+           alt="emanoeldelfino"
+           height="165"
       />
-    </a>
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanoeldelfino&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
