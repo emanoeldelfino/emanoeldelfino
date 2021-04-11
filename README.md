@@ -7,7 +7,7 @@
 <h2 align="center">My stats &#128202;</h2>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&&langs_count=8&layout=compact&theme=dark" alt="emanoeldelfino" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&&langs_count=8&layout=compact&theme=dark" alt="emanoeldelfino" height="165" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&count_private=true&show_icons=true&theme=dark" alt="emanoeldelfino" width="420"/>
 </p>
 <p align="center">
