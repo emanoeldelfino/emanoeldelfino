@@ -14,9 +14,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanoeldelfino&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   <br/>
 </p>
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=emanoeldelfino&theme=alduin&row=1" alt="emanoeldelfino" />
-</p><br>
+<br>
 <hr>
 <h2 align="center">Skills &#9881;&#65039;</h2>
 <br>
