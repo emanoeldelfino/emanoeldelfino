@@ -7,14 +7,14 @@
 <h2 align="center">My stats &#128202;</h2>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&&langs_count=8&layout=compact&theme=dark" alt="emanoeldelfino" height="165" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&count_private=true&show_icons=true&theme=dark" alt="emanoeldelfino" width="420"/>
-</p>
-<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanoeldelfino&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
   <br/>
 </p>
 <br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&&langs_count=8&layout=compact&theme=dark" alt="emanoeldelfino" height="165" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&count_private=true&show_icons=true&theme=dark" alt="emanoeldelfino" width="420"/>
+</p>
 <hr>
 <h2 align="center">Skills &#9881;&#65039;</h2>
 <br>
@@ -26,8 +26,6 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
