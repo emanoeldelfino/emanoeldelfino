@@ -41,10 +41,6 @@
         <img  src="https://img.shields.io/badge/emanoeldelfino-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/emanoeldelfino">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:emanoeldelfno@gmail.com">
-        <img src="https://img.shields.io/badge/emanoeldelfno-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:emanoeldelfno@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/emanoeldelfino">
         <img src="https://img.shields.io/badge/emanoeldelfino-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/emanoeldelfino/">
     </a>
