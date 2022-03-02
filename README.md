@@ -37,18 +37,9 @@
 <h2 align="center">Contact &#128222;</h2>
 <br>
 <p align="center">
-    <a href="https://github.com/emanoeldelfino">
-        <img  src="https://img.shields.io/badge/emanoeldelfino-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/emanoeldelfino">
-    </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/emanoeldelfino">
         <img src="https://img.shields.io/badge/emanoeldelfino-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/emanoeldelfino/">
     </a>
-</p>
-<hr>
-<h2 align="center">Profile views &#128064;</h2>
-<br>
-<p align="center"> 
-  <img alingn="center" src="https://profile-counter.glitch.me/emanoeldelfino/count.svg" />
 </p>
 <hr>
