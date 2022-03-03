@@ -1,5 +1,5 @@
 <p>
-    College student that loves programming in general and most of the things related to tech. I'm always trying to learn something new on this endless world of possibilities. </p>
+    College student that loves programming and most of the things related to tech. I'm always trying to learn something new on this endless world of possibilities. </p>
 <br>
 <hr>
 <br>
