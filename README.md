@@ -1,3 +1,5 @@
+<h2 align="center">About Me 🙋‍♂️</h2>
+<br>
 <p>
     College student that loves programming and most of the things related to tech. I'm always trying to learn something new on this endless world of possibilities. 
 </p>
