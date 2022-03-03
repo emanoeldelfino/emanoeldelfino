@@ -1,8 +1,7 @@
 <p>
-    College student that loves programming and most of the things related to tech. I'm always trying to learn something new on this endless world of possibilities. </p>
-<br>
+    College student that loves programming and most of the things related to tech. I'm always trying to learn something new on this endless world of possibilities. 
+</p>
 <hr>
-<br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&&langs_count=8&layout=compact&theme=dark" alt="emanoeldelfino" height="165" width="420"/>
 </p>
