@@ -5,7 +5,7 @@
 </p>
 <hr>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&&langs_count=8&layout=compact&theme=dark" alt="emanoeldelfino" height="165" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&show_icons=true&theme=midnight-purple" alt="emanoeldelfino" height="165" width="420"/>
 </p>
 <hr>
 <h2 align="center">Skills &#9881;&#65039;</h2>
