@@ -17,6 +17,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&show_icons=true&theme=midnight-purple"/>
+</p>
 <hr>
 <h2 align="center">Contact &#128222;</h2>
 <br>
