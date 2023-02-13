@@ -1,8 +1,3 @@
-<h2 align="center">About Me 🙋‍♂️</h2>
-<br>
-<p>
-    College student that loves programming and most of the things related to tech. I'm always trying to learn something new on this endless world of possibilities. 
-</p>
 <hr>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&show_icons=true&theme=midnight-purple" alt="emanoeldelfino" height="165" width="420"/>
