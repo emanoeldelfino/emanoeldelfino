@@ -16,12 +16,3 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </p>
 <hr>
-<h2 align="center">Contact &#128222;</h2>
-<br>
-<p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/emanoeldelfino">
-        <img src="https://img.shields.io/badge/emanoeldelfino-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/emanoeldelfino/">
-    </a>
-</p>
-<hr>
