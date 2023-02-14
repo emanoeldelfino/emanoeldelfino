@@ -1,12 +1,8 @@
 <hr>
 
-<div align="center">
-    ![Emanoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanoeldelfino&show_icons=true&theme=onedark)
-</div>
+![Emanoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanoeldelfino&show_icons=true&theme=onedark)
 
-<div align="center">
-    ![Emanoel's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&langs_count=8&layout=compact&theme=onedark)
-</div>
+![Emanoel's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&langs_count=8&layout=compact&theme=onedark)
 
 <hr>
 
