@@ -4,6 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=emanoeldelfino&show_icons=true&theme=onedark" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeldelfino&langs_count=8&layout=compact&theme=onedark" />
 </div>
